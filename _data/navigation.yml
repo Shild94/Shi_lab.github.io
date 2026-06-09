@@ -7,27 +7,21 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
+
 main:
   - title: "首页"
-    url: /home/
-
+    url: /
   - title: "研究方向"
-    url: /research/    
-
+    url: /research/
   - title: "研究成果"
-    url: /publications/    
-    
+    url: /publications/
   - title: "教学"
     url: /teaching/
-        
   - title: "课题组成员"
     url: /members/
-    
   - title: "课题组新闻"
     url: /news/
-    
   - title: "课题组活动"
-     url: /events/
-    
+    url: /events/
   - title: "联系我们"
     url: /contact/
